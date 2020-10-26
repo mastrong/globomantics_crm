@@ -7,3 +7,5 @@ out. This makes it easy to toggle between different styles for version
 control testing.
 # Test comment
 This is added from github.
+
+> Note: version 2 will be way better
